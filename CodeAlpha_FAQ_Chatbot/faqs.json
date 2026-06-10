@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the best generative AI tools for writing production-grade code?",
+    "answer": "The leading tools include GitHub Copilot, Cursor editor, Anthropic's Claude (especially 3.5 Sonnet), and OpenAI's GPT-4o. Cursor is highly recommended for developers as it naturally integrates entire codebase context."
+  },
+  {
+    "question": "How do I automate boring administrative tasks using AI?",
+    "answer": "You can use workflow automation platforms like Make.com or Zapier integrated with OpenAI/Anthropic APIs. For local machine automation, Python scripts leveraging libraries like 'pyautogui' or browser automation via 'Selenium' are excellent."
+  },
+  {
+    "question": "What is Retrieval-Augmented Generation (RAG) and why is it useful?",
+    "answer": "RAG is an AI technique where an LLM retrieves relevant facts from an external knowledge base (like your private documents) before generating a response. This stops the AI from hallucinating and ensures accurate, up-to-date answers."
+  },
+  {
+    "question": "How do I run a powerful AI language model locally on my own computer?",
+    "answer": "You can use Ollama or LM Studio. They allow you to download open-source models like Llama 3 or Mistral and run them entirely offline on your local machine without needing an internet connection or paying API fees."
+  },
+  {
+    "question": "What is the best way to get started with autonomous AI agents?",
+    "answer": "Frameworks like CrewAI, AutoGen, and LangGraph are the industry standard. They allow you to define multiple specialized AI 'agents' that can work together, search the web, and execute complex multi-step tasks autonomously."
+  }
+]
