@@ -59,6 +59,6 @@ $$\text{Similarity}(A, B) = \cos(\theta) = \frac{A \cdot B}{\|A\| \|B\|} = \frac
 ## 🎬 Project Demonstration
 Watch the real-time intent-matching process and video breakdown of this chatbot on LinkedIn:
 
-👉 Click Here to Watch the Project Video on LinkedIn
+[👉 Click Here to Watch the Project Video on LinkedIn](https://www.linkedin.com/posts/tulasigowriathi_artificialintelligence-machinelearning-nlp-activity-7470723303477927937-MOCI?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFK6WhcB_AK2m3SFl04KRCR0ZfWPdcI0Li0&utm_campaign=copy_link)
 
 Developed with 💙 by Tulasi Gowri during the CodeAlpha AI Internship.
